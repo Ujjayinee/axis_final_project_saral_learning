@@ -1,0 +1,23 @@
+.carousel-item .d-block{
+    height: 30rem;
+}
+.carousel-item .carousel-caption{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    width: 30%;
+    height: 30%;
+    overflow: hidden;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+  }
+  
+  .image img {
+    width: 100%;
+    object-fit: cover;
+  }
